@@ -1,0 +1,5 @@
+".source.gs":
+  editor:
+    increaseIndentPattern: "^\\s*(do|if|else|while)"
+    decreaseIndentPattern: "^\\s*(end *(do|if)|else|endwhile|endif|enddo)"
+    commentStart: "# "
