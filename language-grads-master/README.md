@@ -1,2 +1,2 @@
 # language-grads
-Language GrADS support for atom
+ GrADS language support for ATOM editor. 
